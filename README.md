@@ -14,6 +14,8 @@ screens.php Edited to add the JavaScript, that allows you to print the Div that 
 
 Created report_pdf.php to abstract the JavaScrito adding in screens.php
 
+Copied Main CSS to pdf-theme.css to personalizate details of report
+
 Result:
 
 ![image](https://user-images.githubusercontent.com/45453977/92010897-b931b380-ed20-11ea-84d7-dcecb75d0c5f.png)
